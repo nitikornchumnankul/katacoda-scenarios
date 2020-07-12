@@ -1,4 +1,8 @@
 # katacoda-scenarios
+### ติดตั้ง katacoda-cli
+```
+npm install katacoda-cli --global
+```
 
 ### 1. สร้างคอร์ส
 ```
