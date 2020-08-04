@@ -20,4 +20,4 @@ katacoda senarious:create
 ## อ้างอิง Documentation
 [Katacoda Documentation Portal](https://www.katacoda.community/welcome.html)
 
-https://katacoda.com/scenario-examples/scenarios/create-scenario-101
+[Creating Your First Katacoda Scenario](https://katacoda.com/scenario-examples/scenarios/create-scenario-101)
