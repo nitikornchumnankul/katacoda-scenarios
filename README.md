@@ -4,7 +4,7 @@
 npm install katacoda-cli --global
 ```
 
-### 1. สร้างคอร์ส
+###  สร้างคอร์ส
 ```
 katacoda senarious:create
 ```
