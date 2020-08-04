@@ -10,7 +10,7 @@ katacoda scenarios:create
 ```
 
 
-## ส่วนที่ควรใส่ใจ
+## [ส่วนที่ควรใส่ใจ](https://www.katacoda.community/author-profile.html#configuring-git-webhook-manually)
  1. ติดตั้ง webhook โดยใช้ URL https://editor.katacoda.com/scenarios/updated และ Secret Katacoda จะสร้างให้ตอนที่ สร้าง Profile ครั้งแรก
  2. ใส่ URL Repository ที่จะทำการแก้ไขไปที่ Profile setting ของ Katacoda
  3. ทดลอง แก้ไข Repository และดูที่ Webhook ว่าทำงานอยู่หรือไม่
