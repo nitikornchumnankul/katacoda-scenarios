@@ -4,7 +4,7 @@
 mkdir hello-world
 ```
 
-# Create hello-world.go
+# Create hello_world.go
 ```
 vi hello-world.go
 ```
