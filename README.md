@@ -4,7 +4,7 @@
 npm install katacoda-cli --global
 ```
 
-###  สร้างคอร์ส
+###  [สร้างคอร์ส](https://katacoda.com/scenario-examples/scenarios/create-scenario-101)
 ```
 katacoda scenarios:create
 ```
