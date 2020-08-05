@@ -1,5 +1,5 @@
 # katacoda-scenarios
-### ติดตั้ง katacoda-cli
+### [ติดตั้ง katacoda-cli](https://www.npmjs.com/package/katacoda-cli/v/0.0.4)
 ```
 npm install katacoda-cli --global
 ```
