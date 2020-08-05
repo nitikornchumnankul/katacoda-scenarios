@@ -20,10 +20,10 @@ katacoda scenarios:create
 
 
 ## อ้างอิง Documentation
-[Creating Your First Katacoda Scenario](https://katacoda.com/scenario-examples/scenarios/create-scenario-101)
+[1. Creating Your First Katacoda Scenario](https://katacoda.com/scenario-examples/scenarios/create-scenario-101)
 
-[Katacoda Documentation Portal](https://www.katacoda.community/welcome.html)
+[2. Katacoda Documentation Portal](https://www.katacoda.community/welcome.html)
 
-[Scenario with VS Code / Terminal UI Split Screen](https://katacoda.com/scenario-examples/courses/uilayouts/uilayout-vscode-terminal)
+[3. Scenario with VS Code / Terminal UI Split Screen](https://katacoda.com/scenario-examples/courses/uilayouts/uilayout-vscode-terminal)
 
-[katacoda/scenario-examples](https://github.com/katacoda/scenario-examples)
+[4. katacoda/scenario-examples](https://github.com/katacoda/scenario-examples)
