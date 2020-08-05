@@ -1,4 +1,5 @@
 # katacoda-scenarios
+![](https://github.com/nitikornchumnankul/katacoda-scenarios/blob/master/assets/pictures/setup/profile.png)
 ### [ติดตั้ง katacoda-cli](https://www.npmjs.com/package/katacoda-cli/v/0.0.4)
 ```
 npm install katacoda-cli --global
