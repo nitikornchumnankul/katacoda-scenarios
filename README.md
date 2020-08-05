@@ -21,5 +21,5 @@ katacoda scenarios:create
 [Creating Your First Katacoda Scenario](https://katacoda.com/scenario-examples/scenarios/create-scenario-101)
 
 [Katacoda Documentation Portal](https://www.katacoda.community/welcome.html)
-
 [Scenario with VS Code / Terminal UI Split Screen](https://katacoda.com/scenario-examples/courses/uilayouts/uilayout-vscode-terminal)
+[katacoda/scenario-examples](https://github.com/katacoda/scenario-examples)
