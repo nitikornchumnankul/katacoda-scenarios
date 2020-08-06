@@ -28,4 +28,5 @@ katacoda scenarios:create
 [3. Scenario with VS Code / Terminal UI Split Screen](https://katacoda.com/scenario-examples/courses/uilayouts/uilayout-vscode-terminal)
 
 [4. katacoda/scenario-examples](https://github.com/katacoda/scenario-examples)
+
 [5 Katacoda Scenario Examples](https://katacoda.com/scenario-examples)
