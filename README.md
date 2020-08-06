@@ -29,4 +29,4 @@ katacoda scenarios:create
 
 [4. katacoda/scenario-examples](https://github.com/katacoda/scenario-examples)
 
-[5 Katacoda Scenario Examples](https://katacoda.com/scenario-examples)
+[5. Katacoda Scenario Examples](https://katacoda.com/scenario-examples)
