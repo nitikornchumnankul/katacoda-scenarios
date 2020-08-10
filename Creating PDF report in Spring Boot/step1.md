@@ -16,15 +16,16 @@ To uncompress
 
 ## 5. Set Maven Environment Variables
 Add M2_HOME, M2, MAVEN_OPTS to environment variables.
-export M2_HOME=/usr/local/apache-maven/apache-maven-3.3.1
 
-export M2=$M2_HOME/bin
+`export M2_HOME=./apache-maven-3.6.3`{{execute}}
 
-export MAVEN_OPTS=-Xms256m -Xmx512m
+`export M2=$M2_HOME/bin`{{execute}}
+
+`export MAVEN_OPTS=-Xms256m -Xmx512m`{{execute}}
 
 ## 6. Add Maven bin Directory Location to System Path
 
-`export PATH=$M2:$PATH`
+`export PATH=$M2:$PATH`{{execute}}
 
 ## 7. Verify Maven Installation
 ` mvn --version`{{execute}}
