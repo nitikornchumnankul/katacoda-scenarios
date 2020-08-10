@@ -1,9 +1,17 @@
 ## Install JAVA JDK or JRE
 `sudo apt-get update`{{execute}}
+
 `sudo apt-get install openjdk-8-jdk`{{execute}}
+
+`yes`{{execute}}
+
+
+## Show directory
+`dpkg -L openjdk-8-jdk`{{execute}}
+
 ## Set Java Environment
 ## 1. Set the JAVA_HOME
-`export JAVA_HOME=/usr/local/java-current`{{execute}}
+`export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64`{{execute}}
 
 ## 2. Append Java compiler location to System Path.
 `export PATH=$PATH:$JAVA_HOME/bin/`{{execute}}
