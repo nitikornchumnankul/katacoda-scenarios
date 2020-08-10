@@ -32,8 +32,6 @@ Add M2_HOME, M2, MAVEN_OPTS to environment variables.
 
 `export M2=$M2_HOME/bin`{{execute}}
 
-`export MAVEN_OPTS=-Xms256m -Xmx512m`{{execute}}
-
 ## 6. Add Maven bin Directory Location to System Path
 
 `export PATH=$M2:$PATH`{{execute}}
@@ -46,4 +44,5 @@ Add M2_HOME, M2, MAVEN_OPTS to environment variables.
 2. [Download Maven](https://maven.apache.org/download.cgi)
 3. [How To Extract .tar.gz Files using Linux Command Line](https://www.interserver.net/tips/kb/extract-tar-gz-files-using-linux-command-line/)
 4. [Understanding Memory Management](https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/geninfo/diagnos/garbage_collect.html#wp1085825)
+5. [What are the -Xms and -Xmx parameters when starting JVM?](https://stackoverflow.com/questions/14763079/what-are-the-xms-and-xmx-parameters-when-starting-jvm)
 
