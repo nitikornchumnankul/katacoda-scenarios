@@ -1,3 +1,6 @@
+## Install JAVA JDK or JRE
+`sudo apt-get update`{{execute}}
+`sudo apt-get install openjdk-8-jdk`{{execute}}
 ## Set Java Environment
 ## 1. Set the JAVA_HOME
 `export JAVA_HOME=/usr/local/java-current`{{execute}}
