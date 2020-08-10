@@ -34,3 +34,5 @@ Add M2_HOME, M2, MAVEN_OPTS to environment variables.
 1. [Maven - Environment Setup](https://www.tutorialspoint.com/maven/maven_environment_setup.htm)
 2. [Download Maven](https://maven.apache.org/download.cgi)
 3. [How To Extract .tar.gz Files using Linux Command Line](https://www.interserver.net/tips/kb/extract-tar-gz-files-using-linux-command-line/)
+4. [Understanding Memory Management](https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/geninfo/diagnos/garbage_collect.html#wp1085825)
+
