@@ -12,7 +12,7 @@
 
 ## 4. Extract the Maven Archive
 To uncompress
-`tar xvzf apache-maven-3.6.3-bin.tar.gz`
+`tar xvzf apache-maven-3.6.3-bin.tar.gz`{{execute}}
 
 ## 5. Set Maven Environment Variables
 Add M2_HOME, M2, MAVEN_OPTS to environment variables.
