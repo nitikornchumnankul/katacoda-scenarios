@@ -1,1 +1,0 @@
-# ทดสอบการสร้าง KATACODA PROJECT
